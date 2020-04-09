@@ -1,0 +1,5 @@
+table是游戏内的静态本地数据表
+
+安装转表vscode的插件，xlsxconvert，作者为fisher的。
+
+将table拖到vscode的项目中，可以右键table的目录，然后选择转表。即可将表转成ts和json，或者js，或者zip等格式
